@@ -1,4 +1,4 @@
-﻿namespace ClasseAbstrata
+namespace ClasseAbstrata
 {
     class Program
     {
